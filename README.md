@@ -1,0 +1,1 @@
+# Lottery_Contract_Deployed_on_RinkebyTestnet_using_Truffle
